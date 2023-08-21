@@ -1,10 +1,17 @@
-class LUDecomposition:
+from decomposition.decomposition import Decomposition
+
+class LU(Decomposition):
     def __init__(self, matrix):
-        self.matrix = matrix
-        self.n = len(matrix)
+        super().__init__(matrix)
         self.L = [[0.0] * self.n for _ in range(self.n)]
         self.U = [[0.0] * self.n for _ in range(self.n)]
 
+    def get_L(self):
+        return self.L
+
+    def get_U(self):
+        return self.U
+    
     def decompose(self):
         for i in range(self.n):
             # Upper Triangular
@@ -23,10 +30,3 @@ class LUDecomposition:
                     for j in range(i):
                         sum += self.L[k][j] * self.U[j][i]
                     self.L[k][i] = (self.matrix[k][i] - sum) / self.U[i][i]
-
-    def get_L(self):
-        return self.L
-
-    def get_U(self):
-        return self.U
-

@@ -1,6 +1,6 @@
 import numpy as np
 
-class OperationMatrix:
+class Operation:
 
     def __init__(self, A, B):
         self.A = np.array(A)

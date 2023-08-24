@@ -9,6 +9,9 @@ transformações Householder, ou rotações de Givens.
 
 Esta classe implementa a decomposição de QR usando o método de Gram-Schmidt para fatoração de uma matriz.
 
+A classe armazena as matrizes Q (com vetores ortogonais normalizados) e 
+R (triangular superior) separadamente, que são os resultados da decomposição.
+
 """
 
 class QR:

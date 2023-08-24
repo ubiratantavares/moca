@@ -15,4 +15,4 @@ class Hessenberg:
         return self.P
 
     def decompose(self):
-        self.H, self.P = hessenberg(self.matrix, calc_q=True)
+        self.H, self.P = hessenberg(self.matrix,)

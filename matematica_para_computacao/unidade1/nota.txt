@@ -1,0 +1,7 @@
+Unidade 01 - Por que estudar matemática?
+
+Aula 01 - O que é matemática computacional
+Aula 02 - Idealização de um algoritmo numérico
+Aula 03 - Relações de recorrência
+Aula 04 - Conceito de função no aspecto computacional
+Aula 05 - Diferenças entre problemas qualitativos e quantitativos

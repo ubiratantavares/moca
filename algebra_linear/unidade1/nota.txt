@@ -1,0 +1,7 @@
+Unidade 01 - Matrizes e sistemas de equações lineares
+
+Aula 01 - Matrizes
+Aula 02 - Matrizes Elementares
+Aula 03 - Operações com Matrizes
+Aula 04 - Inversa de uma Matriz
+Aula 05 - Sistemas de Equações Lineares

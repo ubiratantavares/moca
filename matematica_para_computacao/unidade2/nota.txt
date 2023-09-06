@@ -1,0 +1,6 @@
+Unidade 02 - Noções sobre sistemas de numeração
+
+Aula 01 - Sistemas de numeração
+Aula 02 - Representação numérica
+Aula 03 - Representação em ponto flutuante
+Aula 04 - Erros numéricos

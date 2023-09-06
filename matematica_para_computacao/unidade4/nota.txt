@@ -1,0 +1,8 @@
+Unidade 04 - Sistemas de equações lineares
+
+Aula 01 - Sistemas equivalentes e operações
+Aula 02 - Sistemas triangulares e escalonados
+Aula 03 - Eliminação gaussiana
+Aula 04 - Condicionamento de sistemas lineares
+Aula 05 - Métodos iterativos
+

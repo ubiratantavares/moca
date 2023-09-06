@@ -1,0 +1,8 @@
+Unidade 02 - Espaços vetoriais
+
+Aula 01 - Definição de espaços vetoriais
+Aula 02 - Subespaços vetoriais
+Aula 03 - Combinação linear
+Aula 04 - Dependência e independência linear
+Aula 05 - Base de um espaço vetorial
+Aula 06 - Posto, nulidade e espaços fundamentais

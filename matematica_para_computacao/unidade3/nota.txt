@@ -1,0 +1,8 @@
+Unidade 03 - Matrizes
+
+Aula 01 - Vetores de uma matriz
+Aula 02 - Análise do algoritmo padrão para multiplicação de matrizes
+Aula 03 - Bases
+Aula 04 - Fatoração matricial – Método de Gauss
+Aula 05 - Decomposição LU e LDU
+Aula 06 - Inversa de uma matriz
